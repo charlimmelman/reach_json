@@ -1,15 +1,9 @@
 [
   {
-    "number": 2,
-    "title": "Hymn 1",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "type": "hymn"
-  },
-  {
-    "number": 4,
-    "title": "Hymn 2",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "type": "hymn"
+    "number": 1,
+    "title": "A Prayer to help me build an app",
+    "body": "Help me build an app Lord!",
+    "type": "prayer"
   },
   {
     "number": 2,
