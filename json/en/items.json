@@ -3,61 +3,61 @@
     "number": 1,
     "title": "The Lord's Prayer",
     "body": "Holy, Holy, Holy! Lord God Almighty!\r\nEarly in the morning our song shall rise to Thee;\r\nHoly, Holy, Holy, merciful and mighty!\r\nGod in Three Persons, blessed Trinity!\r\nHoly, Holy, Holy! All the saints adore Thee,\r\nCasting down their golden crowns around the glassy sea;\r\nCherubim and seraphim falling down before Thee,\r\nWho was, and is, and evermore shall be.\r\nHoly, Holy, Holy! Though the darkness hide Thee,\r\nThough the eye of sinful man Thy glory may not see;\r\nOnly Thou art holy; there is none beside Thee,\r\nPerfect in power, in love, and purity.\r\nHoly, Holy, Holy! Lord God Almighty!\r\nAll Thy works shall praise Thy name, in earth, and sky, and sea;\r\nHoly, Holy, Holy; merciful and mighty!\r\nGod in Three Persons, blessed Trinity!",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 2,
     "title": "The Apostles' Creed",
     "body": "I believe in God, the Father almighty,\n\nCreator of heaven and earth.\n\nI believe in Jesus Christ, his only Son, our Lord,\n\nWho was conceived by the Holy Spirit,\n\nBorn of the Virgin Mary,\n\nSuffered under Pontius Pilate,\n\nWas crucified, died, and was buried;\n\nHe descended to the dead.\n\nOn the third day he rose again;\n\nHe ascended into heaven,\n\nHe is seated at the right hand of the Father,\n\nAnd he will come to judge the living and the dead.\n\nI believe in the Holy Spirit,\n\nThe holy catholic Church,\n\nThe communion of saints,\n\nThe forgiveness of sins,\n\nThe resurrection of the body,\n\nAnd the life everlasting.\n\nAmen.",
-    "type": "creed"
+    "type": "item"
   },
   {
     "number": 3,
     "title": "The Nicene Creed",
     "body": "We believe in one God,\n\nThe Father, the Almighty,\n\nMaker of heaven and earth,\n\nOf all that is, seen and unseen.\n\nWe believe in one Lord, Jesus Christ,\n\nThe only Son of God,\n\nEternally begotten of the Father,\n\nGod from God, Light from Light,\n\nTrue God from true God,\n\nBegotten, not made,\n\nOf one Being with the Father.\n\nThrough him all things were made.\n\nFor us and for our salvation\n\nHe came down from heaven:\n\nBy the power of the Holy Spirit\n\nHe became incarnate from the Virgin Mary,\n\nAnd was made man.\n\nFor our sake he was crucified under Pontius Pilate;\n\nHe suffered death and was buried.\n\nOn the third day he rose again\n\nIn accordance with the Scriptures;\n\nHe ascended into heaven\n\nAnd is seated at the right hand of the Father.\n\nHe will come again in glory to judge the living and the dead,\n\nAnd his kingdom will have no end.\n\nWe believe in the Holy Spirit, the Lord, the giver of life,\n\nWho proceeds from the Father and the Son.\n\nWith the Father and the Son he is worshiped and glorified.\n\nHe has spoken through the Prophets.\n\nWe believe in one holy catholic and apostolic Church.\n\nWe acknowledge one baptism for the forgiveness of sins.\n\nWe look for the resurrection of the dead,\n\nAnd the life of the world to come.\n\nAmen.",
-    "type": "creed"
+    "type": "item"
   },
   {
     "number": 4,
     "title": "The General Thanksgiving",
     "body": "Almighty God, Father of all mercies,\n\nWe, your unworthy servants,\n\nGive you humble thanks\n\nFor all your goodness and loving-kindness\n\nTo us and to all whom you have made.\n\nWe bless you for our creation, preservation,\n\nAnd all the blessings of this life;\n\nBut above all for your immeasurable love\n\nIn the redemption of the world\n\nBy our Lord Jesus Christ;\n\nFor the means of grace,\n\nAnd for the hope of glory.\n\nAnd, we pray, give us such an awareness of your mercies,\n\nThat with truly thankful hearts\n\nWe may show forth your praise,\n\nNot only with our lips, but in our lives,\n\nBy giving up ourselves to your service,\n\nAnd by walking before you\n\nIn holiness and righteousness all our days;\n\nThrough Jesus Christ our Lord,\n\nTo whom, with you and the Holy Spirit,\n\nBe honor and glory throughout all ages.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 5,
     "title": "A Prayer for Guidance",
     "body": "Heavenly Father,\n\nIn you we live and move and have our being.\n\nWe humbly pray you so to guide and govern us\n\nBy your Holy Spirit,\n\nThat in all the cares and occupations of our life\n\nWe may not forget you,\n\nBut may remember that we are ever walking in your sight;\n\nThrough Jesus Christ our Lord.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 6,
     "title": "A Prayer of St. Chrysostom",
     "body": "Almighty God,\n\nWho has given us grace at this time,\n\nWith one accord to make our common supplications to you;\n\nAnd have promised through your well-beloved Son,\n\nThat when two or three are gathered together in his Name\n\nYou will be in the midst of them:\n\nFulfill now, O Lord, our desires and petitions,\n\nAs may be best for us;\n\nGranting us in this world knowledge of your truth,\n\nAnd in the world to come life everlasting.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 7,
     "title": "A Prayer for Grace",
     "body": "Lord God, almighty and everlasting Father,\n\nYou have brought us in safety to this new day:\n\nPreserve us with your mighty power,\n\nThat we may not fall into sin,\n\nNor be overcome by adversity;\n\nAnd in all we do, direct us to the fulfilling of your purpose;\n\nThrough Jesus Christ our Lord.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 8,
     "title": "A Prayer for Peace",
     "body": "Eternal God, in whose perfect kingdom\n\nNo sword is drawn but the sword of righteousness,\n\nNo strength known but the strength of love:\n\nSo mightily spread abroad your Spirit,\n\nThat all peoples may be gathered together\n\nUnder the banner of the Prince of Peace,\n\nAs children of one Father;\n\nTo whom be dominion and glory,\n\nNow and forever.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 9,
     "title": "A Prayer for Joy in God's Creation",
     "body": "O heavenly Father,\n\nWho has filled the world with beauty:\n\nOpen our eyes to behold your gracious hand in all your works;\n\nThat, rejoicing in your whole creation,\n\nWe may learn to serve you with gladness;\n\nFor the sake of him through whom all things were made,\n\nYour Son Jesus Christ our Lord.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 10,
     "title": "A Prayer for the Church",
     "body": "Gracious Father,\n\nWe pray for your holy catholic Church.\n\nFill it with all truth, in all truth with all peace.\n\nWhere it is corrupt, purify it;\n\nWhere it is in error, direct it;\n\nWhere in any thing it is amiss, reform it.\n\nWhere it is right, strengthen it;\n\nWhere it is in want, provide for it;\n\nWhere it is divided, reunite it;\n\nFor the sake of Jesus Christ your Son our Savior.\n\nAmen.",
-    "type": "prayer"
+    "type": "item"
   },
   {
     "number": 1,
